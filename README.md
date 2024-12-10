@@ -9,4 +9,5 @@ The inspiration for this project stems from my personal passion for playing Sudo
 [Solving sudoku puzzles with computer | Killer sudoku rules](https://www.youtube.com/watch?v=-Jlh5E5U-rg&list=PLbfxO23TgNPi4mKMsCb18g27PBSxkM5vC&index=4)
 
 [Killer sudoku combination cheat sheet](https://www.griddlers.net/images/KakuroCheatSheet.pdf)
+
 [Algorithm to Solve Sudoku | Sudoku Solver](https://www.geeksforgeeks.org/sudoku-backtracking-7/)
