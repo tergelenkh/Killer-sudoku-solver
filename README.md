@@ -7,3 +7,5 @@ The inspiration for this project stems from my personal passion for playing Sudo
 [Constraint satisfaction problem](https://medium.com/my-udacity-ai-nanodegree-notes/solving-sudoku-think-constraint-satisfaction-problem-75763f0742c9)
 
 [Solving sudoku puzzles with computer | Killer sudoku rules](https://www.youtube.com/watch?v=-Jlh5E5U-rg&list=PLbfxO23TgNPi4mKMsCb18g27PBSxkM5vC&index=4)
+
+[Killer sudoku combination cheat sheet](https://www.griddlers.net/images/KakuroCheatSheet.pdf)
