@@ -88,13 +88,13 @@ Checking if it is correct.
 ## Acknowledgements
 The inspiration for this project stems from my personal passion for playing Sudoku. As someone who has always found joy in solving puzzles, I wanted to explore the game further and create something unique that blends my interest in Killer Sudoku with new ideas. By working on this project, I aim to deepen my understanding of the game.
 
-[Constraint satisfaction problem](https://medium.com/my-udacity-ai-nanodegree-notes/solving-sudoku-think-constraint-satisfaction-problem-75763f0742c9) Helped me to understand deeply how to solve killer sudoku.
+[Constraint satisfaction problem](https://medium.com/my-udacity-ai-nanodegree-notes/solving-sudoku-think-constraint-satisfaction-problem-75763f0742c9) (Helped me to understand deeply how to solve killer sudoku.)
 
-[Solving sudoku puzzles with computer | Killer sudoku rules](https://www.youtube.com/watch?v=-Jlh5E5U-rg&list=PLbfxO23TgNPi4mKMsCb18g27PBSxkM5vC&index=4) Youtube video to solve killer sudoku using javascript.
+[Solving sudoku puzzles with computer | Killer sudoku rules](https://www.youtube.com/watch?v=-Jlh5E5U-rg&list=PLbfxO23TgNPi4mKMsCb18g27PBSxkM5vC&index=4) (Youtube video to solve killer sudoku using javascript.)
 
-[Killer sudoku combination cheat sheet](https://www.griddlers.net/images/KakuroCheatSheet.pdf) All of the possible combinations that using in killer sudoku.
+[Killer sudoku combination cheat sheet](https://www.griddlers.net/images/KakuroCheatSheet.pdf) (All of the possible combinations that using in killer sudoku.)
 
-[Algorithm to Solve Sudoku | Sudoku Solver](https://www.geeksforgeeks.org/sudoku-backtracking-7/) An OG sudoku solving source codes using different methods.
+[Algorithm to Solve Sudoku | Sudoku Solver](https://www.geeksforgeeks.org/sudoku-backtracking-7/) (Classic sudoku solving source codes using different methods.)
 
 [Killer sudoku online solver](https://imois.in/posts/sudoku-solver/) Got an idea from here how to implement cages from user.
 
