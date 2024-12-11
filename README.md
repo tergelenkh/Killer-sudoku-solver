@@ -117,3 +117,5 @@ The inspiration for this project stems from my personal passion for playing Sudo
 [Killer sudoku online solver](https://imois.in/posts/sudoku-solver/) Got an idea from here how to implement cages from user.
 
 Used [readme.so](https://readme.so/editor) to write this Readme.md file
+
+Got many help from [ChatGPT](https://chatgpt.com) 
