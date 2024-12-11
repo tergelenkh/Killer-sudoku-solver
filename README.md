@@ -96,6 +96,7 @@ The Killer Sudoku Solver combines user-defined constraints with a backtracking a
    - Cell Indices: The coordinates of cells in the cage.
    - Sum: The target sum for the cage.
 - These rules are checked at each step of the solving process to ensure partial and complete sums are valid.
+- Used [itertools](https://docs.python.org/3/library/itertools.html#) for combinations.
 This approach allows the solver to efficiently explore potential solutions while adhering to the unique constraints of Killer Sudoku puzzles.
 
 ## License
