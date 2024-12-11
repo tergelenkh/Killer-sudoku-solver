@@ -58,18 +58,22 @@ The application is built with Python's Tkinter library for the graphical interfa
 <img width="400" alt="Screenshot 2024-12-11 at 7 35 39 PM" src="https://github.com/user-attachments/assets/f79c6a78-0bac-450f-bd9f-659987d91998">
 
 Let's solve this sudoku
-<img width="400">![IMG_8517](https://github.com/user-attachments/assets/96a4d14e-e84b-4f75-9cf1-dacf0abff2e5)
+<img width="600">![IMG_8517](https://github.com/user-attachments/assets/96a4d14e-e84b-4f75-9cf1-dacf0abff2e5)
 
 Use the "Cell Indices" input field to specify the cells in the cage
-<img width="400" alt="Screenshot 2024-12-11 at 8 23 31 PM" src="https://github.com/user-attachments/assets/31794508-1ee2-42bd-bfa2-58d6d8c79227">
+
+<img width="600" alt="Screenshot 2024-12-11 at 8 23 31 PM" src="https://github.com/user-attachments/assets/31794508-1ee2-42bd-bfa2-58d6d8c79227">
 
 Complete the cell cages
-<img width="400" alt="Screenshot 2024-12-11 at 8 46 20 PM" src="https://github.com/user-attachments/assets/67df7097-3ebd-44e3-93dc-aa36b10cf43d">
+
+<img width="600" alt="Screenshot 2024-12-11 at 8 46 20 PM" src="https://github.com/user-attachments/assets/67df7097-3ebd-44e3-93dc-aa36b10cf43d">
 
 After clicking solve button here is the result.
-<img width="400" alt="Screenshot 2024-12-11 at 8 48 13 PM" src="https://github.com/user-attachments/assets/a41b5bdb-04e2-40a9-aeff-7abe6c75ebd8">
+
+<img width="600" alt="Screenshot 2024-12-11 at 8 48 13 PM" src="https://github.com/user-attachments/assets/a41b5bdb-04e2-40a9-aeff-7abe6c75ebd8">
 
 Checking if it is correct.
+
 <img width="400">![IMG_8518](https://github.com/user-attachments/assets/b3357685-6d09-4f20-9fc9-7f05f2b569c2)
 
 ### Notes:
