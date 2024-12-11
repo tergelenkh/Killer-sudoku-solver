@@ -81,6 +81,23 @@ Checking if it is correct.
 - The rows and columns are zero-indexed: `(0,0)` corresponds to the top-left cell, `(8,8)` to the bottom-right.
 - Ensure the cage constraints are valid; overlapping cells or invalid sums may result in no solution.
 
+## How it works
+
+The Killer Sudoku Solver combines user-defined constraints with a backtracking algorithm to find valid solutions for the puzzle:
+
+1. **Backtracking Algorithm:**
+- The solver uses a backtracking approach to fill the grid while ensuring that all Sudoku rules are followed:
+
+   - Each number (1-9) must appear exactly once in every row, column, and 3x3 subgrid.
+- Cage constraints are dynamically validated during the solving process to ensure the sum of numbers in a cage matches the target value.
+
+2. **Dynamic Rule Validation:**
+- Cage rules are stored as dictionaries containing:
+   - Cell Indices: The coordinates of cells in the cage.
+   - Sum: The target sum for the cage.
+- These rules are checked at each step of the solving process to ensure partial and complete sums are valid.
+This approach allows the solver to efficiently explore potential solutions while adhering to the unique constraints of Killer Sudoku puzzles.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
