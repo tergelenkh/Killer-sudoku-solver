@@ -19,6 +19,10 @@ class SudokuApp:
         # Solve button
         self.solve_button = ttk.Button(self.rule_frame, text="Solve", command=self.solve_board)
         self.solve_button.grid(row=3, column=0, columnspan=3, pady=10)
+
+        # Restart button
+        self.restart_button = ttk.Button(self.rule_frame, text="Restart", command=self.restart_board)
+        self.restart_button.grid(row=3, column=1, columnspan=3, pady=10)
     
     def create_sudoku_grid(self):
         """Create a 9x9 Sudoku grid."""
@@ -134,6 +138,12 @@ class SudokuApp:
             for col in range(9):
                 self.grid[row][col].delete(0, tk.END)
                 self.grid[row][col].insert(0, str(solution[row][col]))
+
+    def restart_board(self):
+        """Clear all numbers in the Sudoku grid."""
+        for row in range(9):
+            for col in range(9):
+                self.grid[row][col].delete(0, tk.END)
     
     def solve_sudoku(self, board):
         """Solve the Sudoku using backtracking with constraints."""
